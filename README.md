@@ -1,7 +1,7 @@
 # Prasanth-B
 <h1 align="center">Hi 👋, I'm Battuluri Prasanth</h1>
 <h3 align="center">Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpub.aimind.so%2Fmachine-learning-simplified-understanding-the-basics-beyond-definitions-e6407be1fec6&psig=AOvVaw0y_uSUq3qqbiP2zxff22PO&ust=1727175767099000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiw0-Kh9diIAxUoS2wGHULqCBgQjRx6BAgAEBU"
+<img align="right" alt="Coding" width="400" src="https://indusuni.ac.in/uploads/blogs/iite/Understanding%20the%20Hype%20Around%20Machine%20Learning.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth1438&label=Profile%20views&color=0e75b6&style=flat" alt="prasanth1438" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bnp0199@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3https://www.linkedin.com/in/prasanth-bathuloor-7527a4176/>
 <p align="left">
 </p>
 
